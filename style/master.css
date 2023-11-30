@@ -1,0 +1,171 @@
+* {
+  --main-color: #0075ff;
+  --bg-background-color: #fff;
+  --secondery-color: #009688;
+  --rad6-border-radius: 6px;
+  --pad15-padding: 15px;
+  --main-width: 4px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.quize-app {
+  padding: 10px;
+  width: 900px;
+  margin: 60px auto;
+  background-color: #f8f8f8;
+}
+
+.quize-app .quize-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--bg-background-color);
+  padding: var(--pad15-padding);
+  border-radius: var(--rad6-border-radius);
+  -webkit-border-radius: var(--rad6-border-radius);
+  -moz-border-radius: var(--rad6-border-radius);
+  -ms-border-radius: var(--rad6-border-radius);
+  -o-border-radius: var(--rad6-border-radius);
+}
+
+.quize-app .quize-info .category select {
+  outline: none;
+  background-color: var(--bg-background-color);
+  padding: 5px;
+  position: relative;
+  border-radius: var(--rad6-border-radius);
+  -webkit-border-radius: var(--rad6-border-radius);
+  -moz-border-radius: var(--rad6-border-radius);
+  -ms-border-radius: var(--rad6-border-radius);
+  -o-border-radius: var(--rad6-border-radius);
+}
+
+.quize-app .quize-info .category select option {
+  background-color: var(--bg-background-color);
+  padding: 5px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+.quiz-container .questions-area {
+  margin-top: 10px;
+  padding: var(--pad15-padding);
+  background-color: var(--bg-background-color);
+  border-radius: var(--rad6-border-radius);
+  -webkit-border-radius: var(--rad6-border-radius);
+  -moz-border-radius: var(--rad6-border-radius);
+  -ms-border-radius: var(--rad6-border-radius);
+  -o-border-radius: var(--rad6-border-radius);
+}
+
+.quiz-container .questions-area .question {
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.quiz-container .questions-area .answers {
+  margin-top: 10px;
+  border-radius: var(--rad6-border-radius);
+  -webkit-border-radius: var(--rad6-border-radius);
+  -moz-border-radius: var(--rad6-border-radius);
+  -ms-border-radius: var(--rad6-border-radius);
+  -o-border-radius: var(--rad6-border-radius);
+}
+
+.questions-area .answers .answer {
+  background-color: #f9f9f9;
+  padding: var(--pad15-padding);
+}
+
+.questions-area .answers .answer label {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 5px;
+  color: #777;
+  position: relative;
+  top: -1px;
+}
+
+.questions-area .answers .answer:not(:last-child) {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.questions-area .answers .answer input[type="Radio"]:checked + label {
+  color: var(--main-color);
+}
+
+.quiz-container .submit {
+  margin-top: 10px;
+  background-color: var(--main-color);
+  color: white;
+  padding: var(--pad15-padding);
+  cursor: pointer;
+  text-align: center;
+  border-radius: var(--rad6-border-radius);
+  -webkit-border-radius: var(--rad6-border-radius);
+  -moz-border-radius: var(--rad6-border-radius);
+  -ms-border-radius: var(--rad6-border-radius);
+  -o-border-radius: var(--rad6-border-radius);
+}
+
+.quiz-container footer {
+  border-top: 1px solid #eee;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--pad15-padding);
+  background-color: var(--bg-background-color);
+}
+
+.quiz-container footer .bullets span {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin: 0 2.5px;
+  background-color: #ddd;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.quiz-container footer .bullets span.current {
+  background-color: var(--main-color);
+}
+
+.quize-app .result {
+  padding: 15px;
+  background-color: var(--bg-background-color);
+}
+
+.quize-app .result span {
+  font-weight: bold;
+}
+
+.quize-app .result span.bad {
+  color: #dc0a0a;
+}
+
+.quize-app .result span.good {
+  color: #009688;
+}
+
+.quize-app .result span.perfect {
+  color: var(--main-color);
+}
+
+.result {
+  display: none;
+}

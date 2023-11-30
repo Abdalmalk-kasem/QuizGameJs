@@ -1,0 +1,426 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Transfer Markup Language",
+    "answer_2": "Hyper Text Makeup Language",
+    "answer_3": "Hyper Text Markup Language",
+    "answer_4": "Hyperlink and Text Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used to define an ordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<li>",
+    "answer_3": "<ol>",
+    "answer_4": "<dl>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "What does the <div> tag represent in HTML?",
+    "answer_1": "A division or section of a document",
+    "answer_2": "A hyperlink",
+    "answer_3": "A line break",
+    "answer_4": "A list item",
+    "right_answer": "A division or section of a document"
+  },
+  {
+    "title": "Which HTML tag is used to create a hyperlink?",
+    "answer_1": "<a>",
+    "answer_2": "<link>",
+    "answer_3": "<href>",
+    "answer_4": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What is the purpose of the <meta> tag in HTML?",
+    "answer_1": "To create headings",
+    "answer_2": "To define a section",
+    "answer_3": "To provide metadata about the document",
+    "answer_4": "To insert images",
+    "right_answer": "To provide metadata about the document"
+  },
+  {
+    "title": "Which HTML element is used to define the structure of an HTML document?",
+    "answer_1": "<header>",
+    "answer_2": "<section>",
+    "answer_3": "<body>",
+    "answer_4": "<title>",
+    "right_answer": "<body>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<br>",
+    "answer_2": "<lb>",
+    "answer_3": "<newline>",
+    "answer_4": "<break>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which HTML tag is used for creating an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_3": "<ul>",
+    "answer_4": "<dl>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "Which attribute is used in HTML to define alternative text for images?",
+    "answer_1": "src",
+    "answer_2": "alt",
+    "answer_3": "title",
+    "answer_4": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "What does CSS stand for in web development?",
+    "answer_1": "Cascading Style Sheet",
+    "answer_2": "Computer Style Sheet",
+    "answer_3": "Creative Style Sheet",
+    "answer_4": "Colorful Style Sheet",
+    "right_answer": "Cascading Style Sheet"
+  },
+  {
+    "title": "Which HTML tag is used for creating a clickable button?",
+    "answer_1": "<input type='button'>",
+    "answer_2": "<button>",
+    "answer_3": "<a>",
+    "answer_4": "<clickable>",
+    "right_answer": "<button>"
+  },
+  {
+    "title": "What is the purpose of the <head> element in an HTML document?",
+    "answer_1": "To define the main content of the page",
+    "answer_2": "To create a footer",
+    "answer_3": "To include JavaScript code",
+    "answer_4": "To provide meta-information about the document",
+    "right_answer": "To provide meta-information about the document"
+  },
+  {
+    "title": "Which HTML tag is used for creating a table?",
+    "answer_1": "<table>",
+    "answer_2": "<tabular>",
+    "answer_3": "<grid>",
+    "answer_4": "<datatable>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "What is the purpose of the HTML <form> element?",
+    "answer_1": "To define a header",
+    "answer_2": "To create a navigation bar",
+    "answer_3": "To define a container",
+    "answer_4": "To create a user input form",
+    "right_answer": "To create a user input form"
+  },
+  {
+    "title": "Which HTML attribute is used to define the target URL for a hyperlink?",
+    "answer_1": "href",
+    "answer_2": "src",
+    "answer_3": "url",
+    "answer_4": "link",
+    "right_answer": "href"
+  },
+  {
+    "title": "Which HTML tag is used to create an italicized text?",
+    "answer_1": "<italic>",
+    "answer_2": "<em>",
+    "answer_3": "<i>",
+    "answer_4": "<bold>",
+    "right_answer": "<em>"
+  },
+  {
+    "title": "What is the purpose of the HTML <aside> element?",
+    "answer_1": "To create a footer",
+    "answer_2": "To define a sidebar or supplementary content",
+    "answer_3": "To insert images",
+    "answer_4": "To create a navigation menu",
+    "right_answer": "To define a sidebar or supplementary content"
+  },
+  {
+    "title": "Which HTML tag is used for defining a section of navigation links?",
+    "answer_1": "<nav>",
+    "answer_2": "<section>",
+    "answer_3": "<menu>",
+    "answer_4": "<links>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "In HTML, what does the <hr> tag represent?",
+    "answer_1": "A hyperlink",
+    "answer_2": "A horizontal line or thematic break",
+    "answer_3": "A header",
+    "answer_4": "A list item",
+    "right_answer": "A horizontal line or thematic break"
+  },
+  {
+    "title": "What is the purpose of the HTML5 <section> element?",
+    "answer_1": "To create a table",
+    "answer_2": "To define a block-level section of content",
+    "answer_3": "To insert images",
+    "answer_4": "To define a hyperlink",
+    "right_answer": "To define a block-level section of content"
+  },
+  {
+    "title": "Which HTML tag is used for defining a subscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<small>",
+    "answer_4": "<italic>",
+    "right_answer": "<sub>"
+  },
+  {
+    "title": "What is the purpose of the HTML <figcaption> element?",
+    "answer_1": "To create a figure",
+    "answer_2": "To define a navigation menu",
+    "answer_3": "To insert images",
+    "answer_4": "To create a footer",
+    "right_answer": "To create a figure"
+  },
+  {
+    "title": "Which HTML attribute is used to specify the URL of an external stylesheet in a <link> element?",
+    "answer_1": "src",
+    "answer_2": "href",
+    "answer_3": "style",
+    "answer_4": "link",
+    "right_answer": "href"
+  },
+  {
+    "title": "What is the purpose of the HTML <mark> element?",
+    "answer_1": "To create a table",
+    "answer_2": "To highlight text within the content",
+    "answer_3": "To insert images",
+    "answer_4": "To define a navigation bar",
+    "right_answer": "To highlight text within the content"
+  },
+  {
+    "title": "Which HTML tag is used to create a clickable link within a document?",
+    "answer_1": "<url>",
+    "answer_2": "<a>",
+    "answer_3": "<link>",
+    "answer_4": "<href>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What does the HTML5 <header> element represent?",
+    "answer_1": "A section of navigation links",
+    "answer_2": "The main heading or introductory content for a section or page",
+    "answer_3": "A horizontal line",
+    "answer_4": "A block of code",
+    "right_answer": "The main heading or introductory content for a section or page"
+  },
+  {
+    "title": "Which HTML tag is used to create a numbered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_3": "<ul>",
+    "answer_4": "<dl>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "What is the purpose of the HTML <abbr> element?",
+    "answer_1": "To create a hyperlink",
+    "answer_2": "To define a table",
+    "answer_3": "To specify an abbreviation or acronym",
+    "answer_4": "To insert images",
+    "right_answer": "To specify an abbreviation or acronym"
+  },
+  {
+    "title": "Which HTML attribute is used to define the width of an image?",
+    "answer_1": "width",
+    "answer_2": "size",
+    "answer_3": "height",
+    "answer_4": "src",
+    "right_answer": "width"
+  },
+  {
+    "title": "What is the purpose of the HTML <cite> element?",
+    "answer_1": "To create a table",
+    "answer_2": "To define a block of code",
+    "answer_3": "To specify the title of a work",
+    "answer_4": "To insert images",
+    "right_answer": "To specify the title of a work"
+  },
+  {
+    "title": "Which HTML element is used for defining a container for navigation links?",
+    "answer_1": "<nav>",
+    "answer_2": "<section>",
+    "answer_3": "<menu>",
+    "answer_4": "<links>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "What does the HTML <blockquote> element represent?",
+    "answer_1": "A hyperlink",
+    "answer_2": "A block of code",
+    "answer_3": "A long quotation from another source",
+    "answer_4": "A header",
+    "right_answer": "A long quotation from another source"
+  },
+  {
+    "title": "Which HTML tag is used for defining a superscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<small>",
+    "answer_4": "<italic>",
+    "right_answer": "<sup>"
+  },
+  {
+    "title": "What is the purpose of the HTML <dfn> element?",
+    "answer_1": "To create a hyperlink",
+    "answer_2": "To define a table",
+    "answer_3": "To specify the definition of a term",
+    "answer_4": "To insert images",
+    "right_answer": "To specify the definition of a term"
+  },
+  {
+    "title": "Which HTML element is used for creating a hyperlink that opens in a new browser window or tab?",
+    "answer_1": "<a>",
+    "answer_2": "<link>",
+    "answer_3": "<a href='mailto:example@example.com'>",
+    "answer_4": "<url>",
+    "right_answer": "<a href='mailto:example@example.com'>"
+  },
+  {
+    "title": "What is the purpose of the HTML <iframe> element?",
+    "answer_1": "To create a form",
+    "answer_2": "To display external web content within a web page",
+    "answer_3": "To define a navigation menu",
+    "answer_4": "To insert images",
+    "right_answer": "To display external web content within a web page"
+  },
+  {
+    "title": "Which HTML tag is used to create a dropdown list in a form?",
+    "answer_1": "<input type='dropdown'>",
+    "answer_2": "<select>",
+    "answer_3": "<option>",
+    "answer_4": "<list>",
+    "right_answer": "<select>"
+  },
+  {
+    "title": "In HTML, which attribute is used to specify the maximum number of characters allowed in a text input field?",
+    "answer_1": "maxlength",
+    "answer_2": "maxchars",
+    "answer_3": "limit",
+    "answer_4": "maxtext",
+    "right_answer": "maxlength"
+  },
+  {
+    "title": "What is the purpose of the HTML <figcaption> element?",
+    "answer_1": "To create a figure",
+    "answer_2": "To define a navigation menu",
+    "answer_3": "To insert images",
+    "answer_4": "To create a footer",
+    "right_answer": "To create a figure"
+  },
+  {
+    "title": "Which HTML tag is used for defining a superscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<small>",
+    "answer_4": "<italic>",
+    "right_answer": "<sup>"
+  },
+  {
+    "title": "What is the purpose of the HTML <mark> element?",
+    "answer_1": "To create a table",
+    "answer_2": "To highlight text within the content",
+    "answer_3": "To insert images",
+    "answer_4": "To define a navigation bar",
+    "right_answer": "To highlight text within the content"
+  },
+  {
+    "title": "In HTML, what does the <abbr> element represent?",
+    "answer_1": "To create a hyperlink",
+    "answer_2": "To define a table",
+    "answer_3": "To specify an abbreviation or acronym",
+    "answer_4": "To insert images",
+    "right_answer": "To specify an abbreviation or acronym"
+  },
+  {
+    "title": "Which HTML attribute is used to define the width of an image?",
+    "answer_1": "width",
+    "answer_2": "size",
+    "answer_3": "height",
+    "answer_4": "src",
+    "right_answer": "width"
+  },
+  {
+    "title": "What is the purpose of the HTML <cite> element?",
+    "answer_1": "To create a table",
+    "answer_2": "To define a block of code",
+    "answer_3": "To specify the title of a work",
+    "answer_4": "To insert images",
+    "right_answer": "To specify the title of a work"
+  },
+  {
+    "title": "Which HTML element is used for defining a container for navigation links?",
+    "answer_1": "<nav>",
+    "answer_2": "<section>",
+    "answer_3": "<menu>",
+    "answer_4": "<links>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "What does the HTML <blockquote> element represent?",
+    "answer_1": "A hyperlink",
+    "answer_2": "A block of code",
+    "answer_3": "A long quotation from another source",
+    "answer_4": "A header",
+    "right_answer": "A long quotation from another source"
+  },
+  {
+    "title": "Which HTML tag is used for defining a subscript text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<small>",
+    "answer_4": "<italic>",
+    "right_answer": "<sub>"
+  },
+  {
+    "title": "What is the purpose of the HTML <dfn> element?",
+    "answer_1": "To create a hyperlink",
+    "answer_2": "To define a table",
+    "answer_3": "To specify the definition of a term",
+    "answer_4": "To insert images",
+    "right_answer": "To specify the definition of a term"
+  },
+  {
+    "title": "Which HTML tag is used for defining a list item within an ordered or unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_3": "<ul>",
+    "answer_4": "<dl>",
+    "right_answer": "<li>"
+  },
+  {
+    "title": "In HTML, which element is used for embedding audio content?",
+    "answer_1": "<audio>",
+    "answer_2": "<video>",
+    "answer_3": "<sound>",
+    "answer_4": "<music>",
+    "right_answer": "<audio>"
+  },
+  {
+    "title": "What is the purpose of the HTML5 <details> element?",
+    "answer_1": "To define a table",
+    "answer_2": "To create a figure",
+    "answer_3": "To create a disclosure widget that can be toggled open or closed",
+    "answer_4": "To insert images",
+    "right_answer": "To create a disclosure widget that can be toggled open or closed"
+  },
+  {
+    "title": "Which HTML tag is used to create a hyperlink to an email address?",
+    "answer_1": "<mail>",
+    "answer_2": "<a href='mailto:example@example.com'>",
+    "answer_3": "<link>",
+    "answer_4": "<email>",
+    "right_answer": "<a href='mailto:example@example.com'>"
+  },
+  {
+    "title": "What is the purpose of the HTML <time> element?",
+    "answer_1": "To define a table",
+    "answer_2": "To create a form",
+    "answer_3": "To represent a specific period in time or a date",
+    "answer_4": "To insert images",
+    "right_answer": "To represent a specific period in time or a date"
+  }
+]

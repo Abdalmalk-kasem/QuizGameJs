@@ -1,0 +1,690 @@
+[
+  {
+    "title": "What is the purpose of the 'typeof' operator in JavaScript?",
+    "answer_1": "To check if a variable is defined",
+    "answer_2": "To determine the type of a value or variable",
+    "answer_3": "To declare a new variable",
+    "answer_4": "To create a function",
+    "right_answer": "To determine the type of a value or variable"
+  },
+  {
+    "title": "How do you declare a variable in JavaScript?",
+    "answer_1": "var myVar;",
+    "answer_2": "variable myVar;",
+    "answer_3": "let myVar;",
+    "answer_4": "const myVar;",
+    "right_answer": "var myVar;"
+  },
+  {
+    "title": "Which keyword is used to define a function in JavaScript?",
+    "answer_1": "function",
+    "answer_2": "method",
+    "answer_3": "def",
+    "answer_4": "func",
+    "right_answer": "function"
+  },
+  {
+    "title": "What is the result of 5 + '5' in JavaScript?",
+    "answer_1": "10",
+    "answer_2": "55",
+    "answer_3": "5 + '5'",
+    "answer_4": "undefined",
+    "right_answer": "55"
+  },
+  {
+    "title": "What is the purpose of the 'console.log()' function in JavaScript?",
+    "answer_1": "To prompt the user for input",
+    "answer_2": "To write text to the web page",
+    "answer_3": "To log messages to the console for debugging",
+    "answer_4": "To create a new variable",
+    "right_answer": "To log messages to the console for debugging"
+  },
+  {
+    "title": "What is an 'if' statement used for in JavaScript?",
+    "answer_1": "To create a loop",
+    "answer_2": "To define a function",
+    "answer_3": "To conditionally execute code",
+    "answer_4": "To declare a variable",
+    "right_answer": "To conditionally execute code"
+  },
+  {
+    "title": "What does the '=== ' operator do in JavaScript?",
+    "answer_1": "Compares two values for equality without type conversion",
+    "answer_2": "Assigns a value to a variable",
+    "answer_3": "Concatenates two strings",
+    "answer_4": "Compares two values for equality with type conversion",
+    "right_answer": "Compares two values for equality without type conversion"
+  },
+  {
+    "title": "Which built-in object in JavaScript is used to represent dates and times?",
+    "answer_1": "Date",
+    "answer_2": "Time",
+    "answer_3": "DateTime",
+    "answer_4": "Clock",
+    "right_answer": "Date"
+  },
+  {
+    "title": "What is the purpose of the 'push()' method in JavaScript?",
+    "answer_1": "To remove an item from an array",
+    "answer_2": "To add an item to the beginning of an array",
+    "answer_3": "To add an item to the end of an array",
+    "answer_4": "To check if an item exists in an array",
+    "right_answer": "To add an item to the end of an array"
+  },
+  {
+    "title": "How do you comment out a single line of code in JavaScript?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "# This is a comment",
+    "answer_4": "-- This is a comment",
+    "right_answer": "// This is a comment"
+  },
+  {
+    "title": "What is the purpose of the 'querySelector()' method in JavaScript?",
+    "answer_1": "To select multiple elements with the same class",
+    "answer_2": "To select an element by its ID",
+    "answer_3": "To select the first element that matches a CSS selector",
+    "answer_4": "To select all elements on the page",
+    "right_answer": "To select the first element that matches a CSS selector"
+  },
+  {
+    "title": "Which JavaScript method is used to remove the last item from an array?",
+    "answer_1": "pop()",
+    "answer_2": "shift()",
+    "answer_3": "splice()",
+    "answer_4": "push()",
+    "right_answer": "pop()"
+  },
+  {
+    "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answer_1": "To store data on the server",
+    "answer_2": "To store data in a temporary location",
+    "answer_3": "To store data on the client's computer",
+    "answer_4": "To store data in a database",
+    "right_answer": "To store data on the client's computer"
+  },
+  {
+    "title": "What does the 'NaN' value represent in JavaScript?",
+    "answer_1": "Not a Number",
+    "answer_2": "Negative Number",
+    "answer_3": "Null Number",
+    "answer_4": "Number Array",
+    "right_answer": "Not a Number"
+  },
+  {
+    "title": "How do you declare a constant variable in JavaScript?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "const var",
+    "right_answer": "const"
+  },
+  {
+    "title": "Which JavaScript method is used to add an element to the beginning of an array?",
+    "answer_1": "prepend()",
+    "answer_2": "push()",
+    "answer_3": "unshift()",
+    "answer_4": "addFirst()",
+    "right_answer": "unshift()"
+  },
+  {
+    "title": "What is the purpose of the 'encodeURIComponent()' function in JavaScript?",
+    "answer_1": "To encode a URL",
+    "answer_2": "To decode a URL",
+    "answer_3": "To create a new function",
+    "answer_4": "To check if a variable is defined",
+    "right_answer": "To encode a URL"
+  },
+  {
+    "title": "What is the JavaScript event that is triggered when an HTML element is clicked?",
+    "answer_1": "onload",
+    "answer_2": "onhover",
+    "answer_3": "onclick",
+    "answer_4": "onsubmit",
+    "right_answer": "onclick"
+  },
+  {
+    "title": "Which JavaScript method is used to convert a string to lowercase?",
+    "answer_1": "toUpperCase()",
+    "answer_2": "toLowerCase()",
+    "answer_3": "toLower()",
+    "answer_4": "lowerCase()",
+    "right_answer": "toLowerCase()"
+  },
+  {
+    "title": "What is the purpose of the 'Math.random()' method in JavaScript?",
+    "answer_1": "To generate a random number between 0 (inclusive) and 1 (exclusive)",
+    "answer_2": "To generate a random integer",
+    "answer_3": "To round a number to the nearest integer",
+    "answer_4": "To calculate the square root of a number",
+    "right_answer": "To generate a random number between 0 (inclusive) and 1 (exclusive)"
+  },
+  {
+    "title": "How do you add a comment that spans multiple lines in JavaScript?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "# This is a comment",
+    "answer_4": "-- This is a comment",
+    "right_answer": "/* This is a comment */"
+  },
+  {
+    "title": "What does the 'slice()' method do in JavaScript?",
+    "answer_1": "Slices a pizza",
+    "answer_2": "Removes the last item from an array",
+    "answer_3": "Returns a shallow copy of a portion of an array",
+    "answer_4": "Joins two strings together",
+    "right_answer": "Returns a shallow copy of a portion of an array"
+  },
+  {
+    "title": "Which JavaScript method is used to remove the first element from an array?",
+    "answer_1": "pop()",
+    "answer_2": "shift()",
+    "answer_3": "splice()",
+    "answer_4": "push()",
+    "right_answer": "shift()"
+  },
+  {
+    "title": "What is the purpose of the 'JSON.stringify()' method in JavaScript?",
+    "answer_1": "To parse JSON data",
+    "answer_2": "To convert a JavaScript object to a JSON string",
+    "answer_3": "To convert a JSON string to a JavaScript object",
+    "answer_4": "To create a new object",
+    "right_answer": "To convert a JavaScript object to a JSON string"
+  },
+  {
+    "title": "What is the JavaScript event that is triggered when an HTML form is submitted?",
+    "answer_1": "onload",
+    "answer_2": "onhover",
+    "answer_3": "onsubmit",
+    "answer_4": "onclick",
+    "right_answer": "onsubmit"
+  },
+  {
+    "title": "Which JavaScript method is used to round a number to the nearest integer?",
+    "answer_1": "Math.floor()",
+    "answer_2": "Math.round()",
+    "answer_3": "Math.ceil()",
+    "answer_4": "Math.random()",
+    "right_answer": "Math.round()"
+  },
+  {
+    "title": "What does the 'forEach()' method do in JavaScript?",
+    "answer_1": "Iterates over the properties of an object",
+    "answer_2": "Iterates over the elements of an array",
+    "answer_3": "Performs a mathematical operation on each element of an array",
+    "answer_4": "Reverses the elements of an array",
+    "right_answer": "Iterates over the elements of an array"
+  },
+  {
+    "title": "How do you check the length of an array in JavaScript?",
+    "answer_1": "array.length",
+    "answer_2": "array.size",
+    "answer_3": "array.count",
+    "answer_4": "array.length()",
+    "right_answer": "array.length"
+  },
+  {
+    "title": "What is the purpose of the 'setTimeout()' function in JavaScript?",
+    "answer_1": "To set the date and time of the computer",
+    "answer_2": "To delay the execution of a function by a specified number of milliseconds",
+    "answer_3": "To measure the execution time of a function",
+    "answer_4": "To repeat a function at regular intervals",
+    "right_answer": "To delay the execution of a function by a specified number of milliseconds"
+  },
+  {
+    "title": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+    "answer_1": "To add a new element to the DOM",
+    "answer_2": "To remove an element from the DOM",
+    "answer_3": "To attach an event handler function to an element",
+    "answer_4": "To change the style of an element",
+    "right_answer": "To attach an event handler function to an element"
+  },
+  {
+    "title": "What is the result of '2' + 2 in JavaScript?",
+    "answer_1": "4",
+    "answer_2": "22",
+    "answer_3": "2 + 2",
+    "answer_4": "undefined",
+    "right_answer": "22"
+  },
+  {
+    "title": "How do you declare a JavaScript array?",
+    "answer_1": "array myArray = [];",
+    "answer_2": "let myArray = {};",
+    "answer_3": "var myArray = [];",
+    "answer_4": "const myArray = [];",
+    "right_answer": "var myArray = [];"
+  },
+  {
+    "title": "Which JavaScript method is used to sort the elements of an array?",
+    "answer_1": "sort()",
+    "answer_2": "order()",
+    "answer_3": "arrange()",
+    "answer_4": "organize()",
+    "right_answer": "sort()"
+  },
+  {
+    "title": "What is the purpose of the 'querySelectorAll()' method in JavaScript?",
+    "answer_1": "To select the first element that matches a CSS selector",
+    "answer_2": "To select all elements that match a CSS selector",
+    "answer_3": "To select an element by its ID",
+    "answer_4": "To select elements by their tag name",
+    "right_answer": "To select all elements that match a CSS selector"
+  },
+  {
+    "title": "What is the purpose of the 'bind()' method in JavaScript?",
+    "answer_1": "To create a new array",
+    "answer_2": "To bind an event handler function to an HTML element",
+    "answer_3": "To concatenate two strings",
+    "answer_4": "To round a number to the nearest integer",
+    "right_answer": "To bind an event handler function to an HTML element"
+  },
+  {
+    "title": "What is the difference between 'null' and 'undefined' in JavaScript?",
+    "answer_1": "'null' represents the intentional absence of any object value, while 'undefined' indicates that a variable has been declared but has not been assigned a value.",
+    "answer_2": "'null' and 'undefined' are interchangeable and can be used in the same way.",
+    "answer_3": "'null' is a string value, and 'undefined' is a numeric value.",
+    "answer_4": "'null' is used for function declarations, and 'undefined' is used for variable declarations.",
+    "right_answer": "'null' represents the intentional absence of any object value, while 'undefined' indicates that a variable has been declared but has not been assigned a value."
+  },
+  {
+    "title": "What is the purpose of the 'fetch()' function in JavaScript?",
+    "answer_1": "To add a new element to the DOM",
+    "answer_2": "To make an asynchronous HTTP request to a server and return a Promise that resolves to the response",
+    "answer_3": "To create a new object",
+    "answer_4": "To remove an element from the DOM",
+    "right_answer": "To make an asynchronous HTTP request to a server and return a Promise that resolves to the response"
+  },
+  {
+    "title": "What is the 'typeof' operator used for in JavaScript?",
+    "answer_1": "To check if a variable is an object",
+    "answer_2": "To determine the data type of a value or variable",
+    "answer_3": "To convert a value to a boolean",
+    "answer_4": "To check if a variable is defined",
+    "right_answer": "To determine the data type of a value or variable"
+  },
+  {
+    "title": "What is the purpose of the 'map()' method in JavaScript?",
+    "answer_1": "To create a new array with the results of calling a provided function on every element in the array",
+    "answer_2": "To filter elements in an array based on a condition",
+    "answer_3": "To check if an element exists in an array",
+    "answer_4": "To reverse the order of elements in an array",
+    "right_answer": "To create a new array with the results of calling a provided function on every element in the array"
+  },
+  {
+    "title": "What is the JavaScript event that is triggered when an HTML element is right-clicked?",
+    "answer_1": "oncontextmenu",
+    "answer_2": "onmousedown",
+    "answer_3": "onmouseover",
+    "answer_4": "onmouseup",
+    "right_answer": "oncontextmenu"
+  },
+  {
+    "title": "How do you convert a JavaScript object to a JSON string?",
+    "answer_1": "Using the 'stringify()' method of the JSON object",
+    "answer_2": "By concatenating the object properties and values",
+    "answer_3": "Using the 'parse()' method of the JSON object",
+    "answer_4": "By assigning the object to a string variable",
+    "right_answer": "Using the 'stringify()' method of the JSON object"
+  },
+  {
+    "title": "What is the purpose of the 'filter()' method in JavaScript?",
+    "answer_1": "To create a new array with all elements that pass a test provided by a function",
+    "answer_2": "To sort elements in an array in ascending order",
+    "answer_3": "To remove elements from an array",
+    "answer_4": "To check if an array is empty",
+    "right_answer": "To create a new array with all elements that pass a test provided by a function"
+  },
+  {
+    "title": "Which keyword is used to declare a constant variable in JavaScript?",
+    "answer_1": "const",
+    "answer_2": "let",
+    "answer_3": "var",
+    "answer_4": "final",
+    "right_answer": "const"
+  },
+  {
+    "title": "What is the purpose of the 'reduce()' method in JavaScript?",
+    "answer_1": "To add elements to an array",
+    "answer_2": "To remove elements from an array",
+    "answer_3": "To apply a function to an accumulator and each element in the array (from left to right) to reduce it to a single value",
+    "answer_4": "To reverse the order of elements in an array",
+    "right_answer": "To apply a function to an accumulator and each element in the array (from left to right) to reduce it to a single value"
+  },
+  {
+    "title": "What does the 'isNaN()' function in JavaScript do?",
+    "answer_1": "Checks if a value is an object",
+    "answer_2": "Checks if a value is a string",
+    "answer_3": "Checks if a value is not a number (NaN)",
+    "answer_4": "Checks if a value is null",
+    "right_answer": "Checks if a value is not a number (NaN)"
+  },
+  {
+    "title": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+    "answer_1": "To add a new element to the DOM",
+    "answer_2": "To remove an element from the DOM",
+    "answer_3": "To attach an event handler function to an element",
+    "answer_4": "To change the style of an element",
+    "right_answer": "To attach an event handler function to an element"
+  },
+  {
+    "title": "Which JavaScript method is used to remove the last element from an array and return it?",
+    "answer_1": "pop()",
+    "answer_2": "shift()",
+    "answer_3": "push()",
+    "answer_4": "unshift()",
+    "right_answer": "pop()"
+  },
+  {
+    "title": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answer_1": "To refer to the previous element in an array",
+    "answer_2": "To refer to the current element in a loop",
+    "answer_3": "To refer to the current object or context in which the code is executing",
+    "answer_4": "To refer to a global variable",
+    "right_answer": "To refer to the current object or context in which the code is executing"
+  },
+  {
+    "title": "What is the purpose of the 'slice()' method in JavaScript?",
+    "answer_1": "To concatenate two arrays",
+    "answer_2": "To create a shallow copy of an array with a specified range of elements",
+    "answer_3": "To remove the last element from an array",
+    "answer_4": "To sort the elements of an array",
+    "right_answer": "To create a shallow copy of an array with a specified range of elements"
+  },
+  {
+    "title": "What is the difference between 'let' and 'const' in JavaScript?",
+    "answer_1": "'let' allows variable reassignment, while 'const' creates a variable that cannot be reassigned after it's declared.",
+    "answer_2": "'let' is used for primitive data types, and 'const' is used for objects.",
+    "answer_3": "'let' and 'const' are interchangeable and can be used in the same way.",
+    "answer_4": "'let' and 'const' are used to define functions in JavaScript.",
+    "right_answer": "'let' allows variable reassignment, while 'const' creates a variable that cannot be reassigned after it's declared."
+  },
+  {
+    "title": "What does the 'continue' statement do in a JavaScript loop?",
+    "answer_1": "Exits the loop and continues with the next iteration",
+    "answer_2": "Terminates the loop immediately",
+    "answer_3": "Resets the loop to its initial state",
+    "answer_4": "Skips the current iteration and continues with the next",
+    "right_answer": "Exits the loop and continues with the next iteration"
+  },
+  {
+    "title": "What is the purpose of the 'event.preventDefault()' method in JavaScript?",
+    "answer_1": "To stop the propagation of an event to parent elements",
+    "answer_2": "To prevent the default behavior of an element, such as submitting a form or following a link",
+    "answer_3": "To trigger a specific event",
+    "answer_4": "To check if an event has been registered",
+    "right_answer": "To prevent the default behavior of an element, such as submitting a form or following a link"
+  },
+  {
+    "title": "What is the JavaScript event that is triggered when an HTML element is clicked?",
+    "answer_1": "onclick",
+    "answer_2": "onmouseover",
+    "answer_3": "onmousedown",
+    "answer_4": "onmouseup",
+    "right_answer": "onclick"
+  },
+  {
+    "title": "What is the purpose of the 'Date' object in JavaScript?",
+    "answer_1": "To represent a time interval",
+    "answer_2": "To format text",
+    "answer_3": "To work with dates and times",
+    "answer_4": "To create random numbers",
+    "right_answer": "To work with dates and times"
+  },
+  {
+    "title": "What is a callback function in JavaScript?",
+    "answer_1": "A function that is called at the beginning of a program",
+    "answer_2": "A function that is executed after a specific event occurs or after the completion of an asynchronous operation",
+    "answer_3": "A function that returns a boolean value",
+    "answer_4": "A function that is called automatically when a script is loaded",
+    "right_answer": "A function that is executed after a specific event occurs or after the completion of an asynchronous operation"
+  },
+  {
+    "title": "What is the purpose of the 'JSON.parse()' method in JavaScript?",
+    "answer_1": "To convert a JSON string to a JavaScript object",
+    "answer_2": "To convert a JavaScript object to a JSON string",
+    "answer_3": "To check if a variable is an array",
+    "answer_4": "To remove an element from an array",
+    "right_answer": "To convert a JSON string to a JavaScript object"
+  },
+  {
+    "title": "What does the 'toFixed()' method do in JavaScript?",
+    "answer_1": "Converts a number to a fixed-point notation with a specified number of decimal places",
+    "answer_2": "Converts a number to an exponential notation",
+    "answer_3": "Rounds a number to the nearest integer",
+    "answer_4": "Converts a number to a binary representation",
+    "right_answer": "Converts a number to a fixed-point notation with a specified number of decimal places"
+  },
+  {
+    "title": "What is the purpose of the 'querySelector()' method in JavaScript?",
+    "answer_1": "To select the first element with a specified class name",
+    "answer_2": "To select the first element with a specified tag name",
+    "answer_3": "To select the first element that matches a specified CSS selector",
+    "answer_4": "To select all elements with a specified attribute",
+    "right_answer": "To select the first element that matches a specified CSS selector"
+  },
+  {
+    "title": "What is a JavaScript constructor function?",
+    "answer_1": "A function that constructs objects and initializes their properties",
+    "answer_2": "A function that is used to destroy objects",
+    "answer_3": "A function that returns a boolean value",
+    "answer_4": "A function that performs mathematical operations",
+    "right_answer": "A function that constructs objects and initializes their properties"
+  },
+  {
+    "title": "What is the purpose of the 'trim()' method in JavaScript?",
+    "answer_1": "To remove all whitespace characters from a string",
+    "answer_2": "To extract a substring from a string",
+    "answer_3": "To remove whitespace characters from the beginning and end of a string",
+    "answer_4": "To replace all occurrences of a substring in a string",
+    "right_answer": "To remove whitespace characters from the beginning and end of a string"
+  },
+  {
+    "title": "Which operator is used for strict equality comparison in JavaScript?",
+    "answer_1": "===",
+    "answer_2": "==",
+    "answer_3": "!=",
+    "answer_4": "!==",
+    "right_answer": "==="
+  },
+  {
+    "title": "What is the purpose of the 'Object.keys()' method in JavaScript?",
+    "answer_1": "To create a new object",
+    "answer_2": "To return an array of a given object's own enumerable property names",
+    "answer_3": "To check if an object has a specific property",
+    "answer_4": "To remove a property from an object",
+    "right_answer": "To return an array of a given object's own enumerable property names"
+  },
+  {
+    "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answer_1": "To store data that is only accessible during the current browser session",
+    "answer_2": "To store data that is accessible across different browser sessions and windows",
+    "answer_3": "To store data on the server",
+    "answer_4": "To store data on the client-side cache",
+    "right_answer": "To store data that is accessible across different browser sessions and windows"
+  },
+  {
+    "title": "What is a JavaScript arrow function?",
+    "answer_1": "A function that uses arrows (=>) as part of its syntax to define shorter anonymous functions",
+    "answer_2": "A function that returns an object",
+    "answer_3": "A function that can only be used once",
+    "answer_4": "A function that takes no arguments",
+    "right_answer": "A function that uses arrows (=>) as part of its syntax to define shorter anonymous functions"
+  },
+  {
+    "title": "What does the 'Array.isArray()' method do in JavaScript?",
+    "answer_1": "Checks if an object is an instance of the Array class",
+    "answer_2": "Checks if an object is a function",
+    "answer_3": "Checks if an object is a string",
+    "answer_4": "Checks if an object is an integer",
+    "right_answer": "Checks if an object is an instance of the Array class"
+  },
+  {
+    "title": "What is the purpose of the 'charAt()' method in JavaScript?",
+    "answer_1": "To check if a character exists in a string",
+    "answer_2": "To return the character at a specified index in a string",
+    "answer_3": "To remove the first character from a string",
+    "answer_4": "To convert a string to uppercase",
+    "right_answer": "To return the character at a specified index in a string"
+  },
+  {
+    "title": "What does the 'Math.random()' method in JavaScript return?",
+    "answer_1": "A random integer between 1 and 100",
+    "answer_2": "A random floating-point number between 0 (inclusive) and 1 (exclusive)",
+    "answer_3": "A random whole number",
+    "answer_4": "A random boolean value",
+    "right_answer": "A random floating-point number between 0 (inclusive) and 1 (exclusive)"
+  },
+  {
+    "title": "What is the purpose of the 'forEach()' method in JavaScript?",
+    "answer_1": "To check if an array is empty",
+    "answer_2": "To create a new array with the results of calling a provided function on every element in the array",
+    "answer_3": "To execute a provided function once for each array element",
+    "answer_4": "To remove elements from an array",
+    "right_answer": "To execute a provided function once for each array element"
+  },
+  {
+    "title": "What does the 'toLocaleString()' method do in JavaScript?",
+    "answer_1": "Converts a number to a localized string with formatting based on the user's locale",
+    "answer_2": "Converts a number to a hexadecimal string",
+    "answer_3": "Converts a number to a binary string",
+    "answer_4": "Converts a number to a scientific notation string",
+    "right_answer": "Converts a number to a localized string with formatting based on the user's locale"
+  },
+  {
+    "title": "What is the purpose of the 'encodeURIComponent()' function in JavaScript?",
+    "answer_1": "To encode a URI component",
+    "answer_2": "To decode a URI component",
+    "answer_3": "To check if a string is empty",
+    "answer_4": "To round a number to the nearest integer",
+    "right_answer": "To encode a URI component"
+  },
+  {
+    "title": "What is the purpose of the 'String.fromCharCode()' method in JavaScript?",
+    "answer_1": "To create a new string",
+    "answer_2": "To generate a random character",
+    "answer_3": "To return a string created by using the specified sequence of Unicode values",
+    "answer_4": "To convert a string to uppercase",
+    "right_answer": "To return a string created by using the specified sequence of Unicode values"
+  },
+  {
+    "title": "What is the purpose of the 'Array.reduce()' method in JavaScript?",
+    "answer_1": "To add elements to an array",
+    "answer_2": "To remove elements from an array",
+    "answer_3": "To reduce an array to a single value by applying a specified function",
+    "answer_4": "To sort the elements of an array in ascending order",
+    "right_answer": "To reduce an array to a single value by applying a specified function"
+  },
+  {
+    "title": "What is a closure in JavaScript?",
+    "answer_1": "A way to lock a variable's value",
+    "answer_2": "A function that has access to variables from its containing function, even after that function has finished executing",
+    "answer_3": "A way to create global variables",
+    "answer_4": "A method to define private variables",
+    "right_answer": "A function that has access to variables from its containing function, even after that function has finished executing"
+  },
+  {
+    "title": "What is the purpose of the 'async' and 'await' keywords in JavaScript?",
+    "answer_1": "To define asynchronous functions",
+    "answer_2": "To define anonymous functions",
+    "answer_3": "To define arrow functions",
+    "answer_4": "To define generator functions",
+    "right_answer": "To define asynchronous functions"
+  },
+  {
+    "title": "What is a promise in JavaScript?",
+    "answer_1": "A guarantee that an operation will fail",
+    "answer_2": "A guarantee that an operation will succeed",
+    "answer_3": "An object representing the eventual completion or failure of an asynchronous operation",
+    "answer_4": "A function that returns multiple values",
+    "right_answer": "An object representing the eventual completion or failure of an asynchronous operation"
+  },
+  {
+    "title": "What does the 'NaN' value represent in JavaScript?",
+    "answer_1": "Not a Number",
+    "answer_2": "Null and Nothing",
+    "answer_3": "Negative Absolute Number",
+    "answer_4": "Negative Association Number",
+    "right_answer": "Not a Number"
+  },
+  {
+    "title": "What is the purpose of the 'Map' object in JavaScript?",
+    "answer_1": "To create a new array",
+    "answer_2": "To store key-value pairs and maintain their insertion order",
+    "answer_3": "To store a list of unique values",
+    "answer_4": "To create a set of integers",
+    "right_answer": "To store key-value pairs and maintain their insertion order"
+  },
+  {
+    "title": "What is a higher-order function in JavaScript?",
+    "answer_1": "A function that operates on high values",
+    "answer_2": "A function that takes another function as an argument or returns a function as a result",
+    "answer_3": "A function that only returns boolean values",
+    "answer_4": "A function that operates on arrays only",
+    "right_answer": "A function that takes another function as an argument or returns a function as a result"
+  },
+  {
+    "title": "What is the purpose of the 'Math.pow()' method in JavaScript?",
+    "answer_1": "To calculate the power of a number",
+    "answer_2": "To calculate the square root of a number",
+    "answer_3": "To round a number to the nearest integer",
+    "answer_4": "To generate a random number",
+    "right_answer": "To calculate the power of a number"
+  },
+  {
+    "title": "What is the 'typeof' operator used for in JavaScript?",
+    "answer_1": "To check the type of a variable or expression",
+    "answer_2": "To create a new variable",
+    "answer_3": "To assign a type to a variable",
+    "answer_4": "To compare two variables",
+    "right_answer": "To check the type of a variable or expression"
+  },
+  {
+    "title": "What is a JavaScript callback hell?",
+    "answer_1": "A situation where callbacks are used excessively, leading to nested and hard-to-read code",
+    "answer_2": "A situation where callbacks are not used at all",
+    "answer_3": "A situation where callbacks are used in a single function",
+    "answer_4": "A situation where callbacks always execute in a predictable order",
+    "right_answer": "A situation where callbacks are used excessively, leading to nested and hard-to-read code"
+  },
+  {
+    "title": "What is the purpose of the 'Array.concat()' method in JavaScript?",
+    "answer_1": "To concatenate two or more arrays and return a new array",
+    "answer_2": "To remove elements from an array",
+    "answer_3": "To sort the elements of an array",
+    "answer_4": "To add elements to the end of an array",
+    "right_answer": "To concatenate two or more arrays and return a new array"
+  },
+  {
+    "title": "What is the result of '5 + '5' in JavaScript?",
+    "answer_1": "10",
+    "answer_2": "55",
+    "answer_3": "Error",
+    "answer_4": "NaN",
+    "right_answer": "55"
+  },
+  {
+    "title": "What does the 'Array.join()' method do in JavaScript?",
+    "answer_1": "Joins all elements of an array into a string, separated by a specified delimiter",
+    "answer_2": "Returns the first element of an array",
+    "answer_3": "Removes the last element of an array",
+    "answer_4": "Returns the number of elements in an array",
+    "right_answer": "Joins all elements of an array into a string, separated by a specified delimiter"
+  },
+  {
+    "title": "What is the purpose of the 'Number.isNaN()' method in JavaScript?",
+    "answer_1": "To check if a number is odd",
+    "answer_2": "To check if a number is prime",
+    "answer_3": "To check if a value is NaN (Not-a-Number)",
+    "answer_4": "To check if a number is negative",
+    "right_answer": "To check if a value is NaN (Not-a-Number)"
+  },
+  {
+    "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answer_1": "To store data that persists even after the browser is closed",
+    "answer_2": "To store temporary variables during script execution",
+    "answer_3": "To store session-specific data",
+    "answer_4": "To store data on the server",
+    "right_answer": "To store data that persists even after the browser is closed"
+  }
+]

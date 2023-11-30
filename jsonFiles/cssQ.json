@@ -1,0 +1,674 @@
+[
+  {
+    "title": "What CSS property is used to change the background color of an element?",
+    "answer_1": "background-color",
+    "answer_2": "color",
+    "answer_3": "text-color",
+    "answer_4": "bgcolor",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which CSS selector is used to select all elements with a specific class?",
+    "answer_1": ".class",
+    "answer_2": "#id",
+    "answer_3": "element",
+    "answer_4": "attribute",
+    "right_answer": ".class"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'margin'?",
+    "answer_1": "To add space between the border and content of an element",
+    "answer_2": "To change the background color of an element",
+    "answer_3": "To change the font size of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To add space between the border and content of an element"
+  },
+  {
+    "title": "What CSS property is used to specify the font for text?",
+    "answer_1": "font-family",
+    "answer_2": "font-size",
+    "answer_3": "text-decoration",
+    "answer_4": "line-height",
+    "right_answer": "font-family"
+  },
+  {
+    "title": "In CSS, what does the 'box-sizing' property control?",
+    "answer_1": "The sizing of elements including padding and border",
+    "answer_2": "The shape of elements",
+    "answer_3": "The visibility of elements",
+    "answer_4": "The positioning of elements",
+    "right_answer": "The sizing of elements including padding and border"
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between lines of text within an element?",
+    "answer_1": "line-height",
+    "answer_2": "margin",
+    "answer_3": "padding",
+    "answer_4": "text-align",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'text-align'?",
+    "answer_1": "To align text within an element",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To change the color of text",
+    "right_answer": "To align text within an element"
+  },
+  {
+    "title": "What does the CSS property 'display: none;' do?",
+    "answer_1": "It makes an element invisible and takes up no space",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It makes an element invisible and takes up no space"
+  },
+  {
+    "title": "In CSS, what is the purpose of the 'z-index' property?",
+    "answer_1": "To control the stacking order of elements",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To control the stacking order of elements"
+  },
+  {
+    "title": "Which CSS property is used to create rounded corners on an element?",
+    "answer_1": "border-radius",
+    "answer_2": "corner-radius",
+    "answer_3": "rounded-corners",
+    "answer_4": "border-style",
+    "right_answer": "border-radius"
+  },
+  {
+    "title": "What is the purpose of the CSS 'float' property?",
+    "answer_1": "To specify whether an element should float to the left or right",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To specify whether an element should float to the left or right"
+  },
+  {
+    "title": "Which CSS property is used to apply a shadow effect to text?",
+    "answer_1": "text-shadow",
+    "answer_2": "box-shadow",
+    "answer_3": "shadow-text",
+    "answer_4": "font-shadow",
+    "right_answer": "text-shadow"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'position: relative;'?",
+    "answer_1": "It positions an element relative to its normal position",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It positions an element relative to its normal position"
+  },
+  {
+    "title": "In CSS, what is the purpose of the 'opacity' property?",
+    "answer_1": "To control the transparency of an element",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To control the transparency of an element"
+  },
+  {
+    "title": "What does the CSS property 'overflow: hidden;' do?",
+    "answer_1": "It hides any content that overflows the element's box",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It hides any content that overflows the element's box"
+  },
+  {
+    "title": "Which CSS property is used to control the space between the elements' borders?",
+    "answer_1": "border-spacing",
+    "answer_2": "margin",
+    "answer_3": "padding",
+    "answer_4": "line-height",
+    "right_answer": "border-spacing"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'transition'?",
+    "answer_1": "To create smooth animations when changing element properties",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To create smooth animations when changing element properties"
+  },
+  {
+    "title": "What CSS property is used to change the style of an element's border?",
+    "answer_1": "border-style",
+    "answer_2": "border-color",
+    "answer_3": "border-width",
+    "answer_4": "border-shape",
+    "right_answer": "border-style"
+  },
+  {
+    "title": "In CSS, how can you make text appear in all capital letters?",
+    "answer_1": "text-transform: uppercase;",
+    "answer_2": "text-style: uppercase;",
+    "answer_3": "text-format: uppercase;",
+    "answer_4": "text-case: uppercase;",
+    "right_answer": "text-transform: uppercase;"
+  },
+  {
+    "title": "Which CSS property is used to set the space between individual characters in a text?",
+    "answer_1": "letter-spacing",
+    "answer_2": "word-spacing",
+    "answer_3": "line-height",
+    "answer_4": "text-spacing",
+    "right_answer": "letter-spacing"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'list-style'?",
+    "answer_1": "To set the style of list item markers (bullets/numbers)",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To set the style of list item markers (bullets/numbers)"
+  },
+  {
+    "title": "What does the CSS property 'cursor: pointer;' do?",
+    "answer_1": "It changes the mouse cursor to a pointing hand when hovering over the element",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It changes the mouse cursor to a pointing hand when hovering over the element"
+  },
+  {
+    "title": "Which CSS property is used to add a shadow to the entire element, including its content?",
+    "answer_1": "box-shadow",
+    "answer_2": "text-shadow",
+    "answer_3": "element-shadow",
+    "answer_4": "content-shadow",
+    "right_answer": "box-shadow"
+  },
+  {
+    "title": "In CSS, what is the purpose of the 'border-collapse' property?",
+    "answer_1": "To specify whether table borders should be collapsed into a single border",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To specify whether table borders should be collapsed into a single border"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'clear'?",
+    "answer_1": "To specify which sides of an element floating elements should be cleared",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To specify which sides of an element floating elements should be cleared"
+  },
+  {
+    "title": "Which CSS property is used to change the color of the text within an element?",
+    "answer_1": "color",
+    "answer_2": "text-color",
+    "answer_3": "font-color",
+    "answer_4": "text-style",
+    "right_answer": "color"
+  },
+  {
+    "title": "What does the CSS property 'visibility: hidden;' do?",
+    "answer_1": "It hides an element but still takes up space in the layout",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It hides an element but still takes up space in the layout"
+  },
+  {
+    "title": "In CSS, what is the purpose of the 'transform' property?",
+    "answer_1": "To apply 2D or 3D transformations to an element",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To apply 2D or 3D transformations to an element"
+  },
+  {
+    "title": "Which CSS property is used to control the vertical alignment of inline or inline-block elements?",
+    "answer_1": "vertical-align",
+    "answer_2": "text-align",
+    "answer_3": "line-height",
+    "answer_4": "margin-top",
+    "right_answer": "vertical-align"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'max-width'?",
+    "answer_1": "To set the maximum width of an element",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To set the maximum width of an element"
+  },
+  {
+    "title": "In CSS, how do you select all elements with a specific attribute?",
+    "answer_1": "[attribute]",
+    "answer_2": "#id",
+    "answer_3": ".class",
+    "answer_4": "element",
+    "right_answer": "[attribute]"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'content' when used with the '::before' pseudo-element?",
+    "answer_1": "To insert content before the content of an element",
+    "answer_2": "To change the font size of an element",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To insert content before the content of an element"
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between words in a text?",
+    "answer_1": "word-spacing",
+    "answer_2": "letter-spacing",
+    "answer_3": "line-height",
+    "answer_4": "text-spacing",
+    "right_answer": "word-spacing"
+  },
+  {
+    "title": "What does the CSS property 'position: absolute;' do?",
+    "answer_1": "It positions an element relative to its nearest positioned ancestor",
+    "answer_2": "It changes the font size of an element",
+    "answer_3": "It adds space between the border and content of an element",
+    "answer_4": "It aligns text within an element",
+    "right_answer": "It positions an element relative to its nearest positioned ancestor"
+  },
+  {
+    "title": "What does the CSS property 'display: none;' do?",
+    "answer_1": "It makes an element invisible and takes up no space.",
+    "answer_2": "It changes the font size of an element.",
+    "answer_3": "It adds space between the border and content of an element.",
+    "answer_4": "It aligns text within an element.",
+    "right_answer": "It makes an element invisible and takes up no space."
+  },
+  {
+    "title": "What does the CSS property 'float' control?",
+    "answer_1": "The visibility of elements.",
+    "answer_2": "The shape of elements.",
+    "answer_3": "The positioning of elements.",
+    "answer_4": "The sizing of elements including padding and border.",
+    "right_answer": "The positioning of elements."
+  },
+  {
+    "title": "Which CSS property is used to create rounded corners on an element?",
+    "answer_1": "border-radius.",
+    "answer_2": "corner-radius.",
+    "answer_3": "rounded-corners.",
+    "answer_4": "border-style.",
+    "right_answer": "border-radius."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'line-height'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the spacing between lines of text within an element.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the spacing between lines of text within an element."
+  },
+  {
+    "title": "What does the CSS property 'box-sizing' control?",
+    "answer_1": "The shape of elements.",
+    "answer_2": "The visibility of elements.",
+    "answer_3": "The sizing of elements including padding and border.",
+    "answer_4": "The positioning of elements.",
+    "right_answer": "The sizing of elements including padding and border."
+  },
+  {
+    "title": "Which CSS property is used to specify the font for text?",
+    "answer_1": "font-family.",
+    "answer_2": "font-size.",
+    "answer_3": "text-decoration.",
+    "answer_4": "line-height.",
+    "right_answer": "font-family."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'background-color'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To change the color of text.",
+    "answer_4": "To set the background color of an element.",
+    "right_answer": "To set the background color of an element."
+  },
+  {
+    "title": "Which CSS selector is used to select all elements within a specific HTML element?",
+    "answer_1": "element element.",
+    "answer_2": "#id.",
+    "answer_3": ".class.",
+    "answer_4": "attribute.",
+    "right_answer": "element element."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'text-align'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To change the color of text.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To align text within an element."
+  },
+  {
+    "title": "Which CSS selector is used to select an element with a specific ID?",
+    "answer_1": "element.",
+    "answer_2": "#id.",
+    "answer_3": ".class.",
+    "answer_4": "attribute.",
+    "right_answer": "#id."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'border'?",
+    "answer_1": "To add space between the border and content of an element.",
+    "answer_2": "To change the background color of an element.",
+    "answer_3": "To define the border of an element.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To define the border of an element."
+  },
+  {
+    "title": "Which CSS selector is used to select all elements of a specific type?",
+    "answer_1": "element element.",
+    "answer_2": "#id.",
+    "answer_3": ".class.",
+    "answer_4": "element.",
+    "right_answer": "element."
+  },
+  {
+    "title": "In CSS, what does the 'z-index' property control?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the stacking order of elements.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the stacking order of elements."
+  },
+  {
+    "title": "Which CSS property is used to specify the width of an element?",
+    "answer_1": "width.",
+    "answer_2": "size.",
+    "answer_3": "height.",
+    "answer_4": "dimension.",
+    "right_answer": "width."
+  },
+  {
+    "title": "What does the CSS property 'display: none;' do?",
+    "answer_1": "It makes an element invisible and takes up no space.",
+    "answer_2": "It changes the font size of an element.",
+    "answer_3": "It adds space between the border and content of an element.",
+    "answer_4": "It aligns text within an element.",
+    "right_answer": "It makes an element invisible and takes up no space."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'padding'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To change the color of text.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To add space between the border and content of an element."
+  },
+  {
+    "title": "Which CSS property is used to specify the color of text?",
+    "answer_1": "color.",
+    "answer_2": "font-color.",
+    "answer_3": "text-color.",
+    "answer_4": "text.",
+    "right_answer": "color."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'position'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the positioning of an element within its container.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the positioning of an element within its container."
+  },
+  {
+    "title": "Which CSS property is used to create a shadow effect for text?",
+    "answer_1": "text-shadow.",
+    "answer_2": "font-shadow.",
+    "answer_3": "shadow-text.",
+    "answer_4": "text-effect.",
+    "right_answer": "text-shadow."
+  },
+  {
+    "title": "In CSS, what is the 'box model'?",
+    "answer_1": "A model used for creating 3D shapes.",
+    "answer_2": "A model used for controlling the positioning of elements.",
+    "answer_3": "A model used for defining the layout of elements with properties like width, height, padding, and border.",
+    "answer_4": "A model used for creating rounded corners on elements.",
+    "right_answer": "A model used for defining the layout of elements with properties like width, height, padding, and border."
+  },
+  {
+    "title": "Which CSS property is used to specify the height of an element?",
+    "answer_1": "height.",
+    "answer_2": "size.",
+    "answer_3": "width.",
+    "answer_4": "dimension.",
+    "right_answer": "height."
+  },
+  {
+    "title": "What does the CSS property 'border-radius' control?",
+    "answer_1": "The shape of elements.",
+    "answer_2": "The visibility of elements.",
+    "answer_3": "The positioning of elements.",
+    "answer_4": "The sizing of elements including padding and border.",
+    "right_answer": "The shape of elements."
+  },
+  {
+    "title": "In CSS, what does the 'opacity' property control?",
+    "answer_1": "The visibility of elements.",
+    "answer_2": "The shape of elements.",
+    "answer_3": "The transparency of an element.",
+    "answer_4": "The positioning of elements.",
+    "right_answer": "The transparency of an element."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'overflow'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control how content overflows its container.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control how content overflows its container."
+  },
+  {
+    "title": "Which CSS selector is used to select elements with a specific class?",
+    "answer_1": "element element.",
+    "answer_2": "#id.",
+    "answer_3": ".class.",
+    "answer_4": "attribute.",
+    "right_answer": ".class."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'list-style'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the style of list markers (bullets/numbers) for lists.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the style of list markers (bullets/numbers) for lists."
+  },
+  {
+    "title": "Which CSS property is used to specify the background image of an element?",
+    "answer_1": "background-image.",
+    "answer_2": "background-color.",
+    "answer_3": "image.",
+    "answer_4": "background.",
+    "right_answer": "background-image."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'margin'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the spacing between elements.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the spacing between elements."
+  },
+  {
+    "title": "In CSS, what does the 'text-transform' property do?",
+    "answer_1": "It changes the font size of an element.",
+    "answer_2": "It adds space between the border and content of an element.",
+    "answer_3": "It transforms the text to uppercase, lowercase, or other capitalization styles.",
+    "answer_4": "It aligns text within an element.",
+    "right_answer": "It transforms the text to uppercase, lowercase, or other capitalization styles."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'cursor'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To specify the type of cursor to display when hovering over an element.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To specify the type of cursor to display when hovering over an element."
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between lines of text?",
+    "answer_1": "font-size.",
+    "answer_2": "line-height.",
+    "answer_3": "text-spacing.",
+    "answer_4": "letter-spacing.",
+    "right_answer": "line-height."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'opacity'?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the transparency of an element.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the transparency of an element."
+  },
+  {
+    "title": "Which CSS property is used to create a border around an element?",
+    "answer_1": "border-style.",
+    "answer_2": "border-color.",
+    "answer_3": "border.",
+    "answer_4": "border-width.",
+    "right_answer": "border."
+  },
+  {
+    "title": "In CSS, what does the 'position' property do?",
+    "answer_1": "To change the font size of an element.",
+    "answer_2": "To add space between the border and content of an element.",
+    "answer_3": "To control the positioning of an element within its container.",
+    "answer_4": "To align text within an element.",
+    "right_answer": "To control the positioning of an element within its container."
+  },
+  {
+    "title": "What does the CSS property 'display: inline;' do?",
+    "answer_1": "It makes an element block-level.",
+    "answer_2": "It makes an element an inline-level element, allowing it to flow within text content.",
+    "answer_3": "It changes the font size of an element.",
+    "answer_4": "It aligns text within an element.",
+    "right_answer": "It makes an element an inline-level element, allowing it to flow within text content."
+  },
+  {
+    "title": "Which CSS property is used to control the rotation of an element?",
+    "answer_1": "rotate.",
+    "answer_2": "transform: rotate();",
+    "answer_3": "rotation.",
+    "answer_4": "rotate-element.",
+    "right_answer": "transform: rotate();"
+  },
+  {
+    "title": "What CSS property is used to specify the spacing between letters in text?",
+    "answer_1": "letter-spacing",
+    "answer_2": "word-spacing",
+    "answer_3": "line-height",
+    "answer_4": "text-spacing",
+    "right_answer": "letter-spacing"
+  },
+  {
+    "title": "In CSS, what does the 'z-index' property control?",
+    "answer_1": "The transparency of an element",
+    "answer_2": "The stacking order of elements",
+    "answer_3": "The shadow effect of an element",
+    "answer_4": "The rotation of an element",
+    "right_answer": "The stacking order of elements"
+  },
+  {
+    "title": "Which CSS property is used to change the style of the cursor when hovering over a link?",
+    "answer_1": "cursor-style",
+    "answer_2": "pointer",
+    "answer_3": "link-style",
+    "answer_4": "hover-cursor",
+    "right_answer": "pointer"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'list-style'?",
+    "answer_1": "To change the font size of an element",
+    "answer_2": "To define the bullet style of a list",
+    "answer_3": "To align text within an element",
+    "answer_4": "To control the transparency of an element",
+    "right_answer": "To define the bullet style of a list"
+  },
+  {
+    "title": "Which CSS property is used to control the size of an element's font?",
+    "answer_1": "font-style",
+    "answer_2": "font-size",
+    "answer_3": "font-weight",
+    "answer_4": "font-color",
+    "right_answer": "font-size"
+  },
+  {
+    "title": "In CSS, what does the 'overflow' property control?",
+    "answer_1": "The positioning of elements",
+    "answer_2": "The shadow effect of an element",
+    "answer_3": "The visibility of elements",
+    "answer_4": "The behavior of content that overflows its container",
+    "right_answer": "The behavior of content that overflows its container"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'text-transform'?",
+    "answer_1": "To change the font size of an element",
+    "answer_2": "To transform the text to uppercase or lowercase",
+    "answer_3": "To add space between the border and content of an element",
+    "answer_4": "To align text within an element",
+    "right_answer": "To transform the text to uppercase or lowercase"
+  },
+  {
+    "title": "Which CSS selector is used to select all elements with a specific attribute and value?",
+    "answer_1": "[attribute='value']",
+    "answer_2": ".class",
+    "answer_3": "#id",
+    "answer_4": ":element",
+    "right_answer": "[attribute='value']"
+  },
+  {
+    "title": "What does the CSS property 'text-decoration' control?",
+    "answer_1": "The visibility of elements",
+    "answer_2": "The spacing between letters in text",
+    "answer_3": "The decoration of text (underline, overline, etc.)",
+    "answer_4": "The rotation of an element",
+    "right_answer": "The decoration of text (underline, overline, etc.)"
+  },
+  {
+    "title": "In CSS, what is the purpose of the 'box-shadow' property?",
+    "answer_1": "To change the font size of an element",
+    "answer_2": "To add space between the border and content of an element",
+    "answer_3": "To control the stacking order of elements",
+    "answer_4": "To add a shadow effect to an element",
+    "right_answer": "To add a shadow effect to an element"
+  },
+  {
+    "title": "Which CSS property is used to specify the vertical alignment of text within an element?",
+    "answer_1": "vertical-align",
+    "answer_2": "text-align",
+    "answer_3": "line-height",
+    "answer_4": "margin",
+    "right_answer": "vertical-align"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'border-radius'?",
+    "answer_1": "To define the border of an element",
+    "answer_2": "To create rounded corners on an element",
+    "answer_3": "To change the style of the cursor",
+    "answer_4": "To control the transparency of an element",
+    "right_answer": "To create rounded corners on an element"
+  },
+  {
+    "title": "In CSS, what does the 'opacity' property control?",
+    "answer_1": "The sizing of elements including padding and border",
+    "answer_2": "The transparency of an element",
+    "answer_3": "The visibility of elements",
+    "answer_4": "The shadow effect of an element",
+    "right_answer": "The transparency of an element"
+  },
+  {
+    "title": "Which CSS property is used to specify the color of an element's border?",
+    "answer_1": "border-color",
+    "answer_2": "background-color",
+    "answer_3": "text-color",
+    "answer_4": "color",
+    "right_answer": "border-color"
+  }
+]

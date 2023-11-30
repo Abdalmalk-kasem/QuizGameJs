@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style/master.css" />
+    <title>Quize Game</title>
+  </head>
+  <body>
+    <div class="quize-app">
+      <div class="quize-info">
+        <div class="category">
+          Category:
+          <select>
+            <option value="html" class="html active" selected>HTML</option>
+            <option value="css" class="css">CSS</option>
+            <option value="js" class="js">JS</option>
+          </select>
+        </div>
+        <div class="count">Questions count: <span></span></div>
+      </div>
+      <div class="quiz-container">
+        <div class="questions-area">
+          <div class="question"></div>
+          <form class="answers" action=""></form>
+        </div>
+        <div class="submit">Submit Answer</div>
+        <footer>
+          <div class="bullets"></div>
+          <div class="timer"></div>
+        </footer>
+      </div>
+      <div class="result"></div>
+    </div>
+    <audio id="correctSound" src="./audio/correct.mp3"></audio>
+    <audio id="wrongSound" src="./audio/wrong.mp3"></audio>
+    <audio id="winSound" src="./audio/win.mp3"></audio>
+    <audio id="loseSound" src="./audio/lose.mp3"></audio>
+    <script src="./main.js"></script>
+  </body>
+</html>
