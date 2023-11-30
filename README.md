@@ -1,5 +1,9 @@
 # QuizJs Game
 
+## Demo
+[Demo](https://abdalmalk-kasem.github.io/QuizGameJs/)
+
+
 ## Overview
 
 QuizJs Game is an interactive quiz application built with HTML, CSS, and JavaScript. It offers a dynamic and engaging experience for users who love testing their knowledge on various topics.
@@ -12,7 +16,7 @@ QuizJs Game is an interactive quiz application built with HTML, CSS, and JavaScr
 
 - **Sound Effects:** Enjoy immersive feedback with sound effects. Hear the cheers for correct answers and a unique sound for incorrect ones.
 
+- **Pagination Tracker:** Easily keep track of your progress with the pagination feature. Know how many questions are remaining and navigate seamlessly between them.
+
 - **End-of-Game Summary:** After completing the quiz, players receive a summary that includes the number of mistakes made. This provides valuable feedback and encourages replay.
 
-## Demo
-[Demo]()
