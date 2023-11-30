@@ -1,4 +1,4 @@
-# QuizJs Game
+# QuizGameJs
 
 ## Demo
 [Demo](https://abdalmalk-kasem.github.io/QuizGameJs/)
